@@ -1,1 +1,1 @@
-# scattering-purity-and-complexity
+# Scattering purity and complexity
