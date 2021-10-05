@@ -29,7 +29,15 @@ We define two auxiliary descriptors, <img src="https://latex.codecogs.com/gif.la
 
 where <img src="https://latex.codecogs.com/gif.latex?\kappa_{U}(\mathbf{\Phi})" title="\kappa_{U}(\mathbf{\Phi})" /> and <img src="https://latex.codecogs.com/gif.latex?\kappa_{L}(\mathbf{\Phi})" title="\kappa_{L}(\mathbf{\Phi})" /> indicate equality in the upper and lower bounds (for n is either even or odd) for the condition number of <img src="https://latex.codecogs.com/gif.latex?\mathbf{\Phi}" title="\mathbf{\Phi}" /> respectively
 
+The polarimetric scattering purity measure, <img src="https://latex.codecogs.com/gif.latex?0&space;\le&space;\mathcal{P}_{a}^{(n)}&space;\le&space;1" title="0 \le \mathcal{P}_{a}^{(n)} \le 1" /> as,
 
+<img src="https://latex.codecogs.com/gif.latex?\mathcal{P}_{a}^{(n)}&space;=&space;\sqrt{\frac{P_{U}^{2}&space;&plus;&space;P_{L}^{2}}{2}}" title="\mathcal{P}_{a}^{(n)} = \sqrt{\frac{P_{U}^{2} + P_{L}^{2}}{2}}" />
+
+The polarimetric scattering complexity measure, <img src="https://latex.codecogs.com/gif.latex?0^\circ&space;\le&space;\mathcal{C}^{(n)}&space;\le&space;45^\circ" title="0^\circ \le \mathcal{C}^{(n)} \le 45^\circ" />,
+
+<img src="https://latex.codecogs.com/gif.latex?\mathcal{C}^{(n)}&space;=&space;\tan^{-1}&space;\left(d^{(n)}/d_{\text{max}}^{(n)}\right)" title="\mathcal{C}^{(n)} = \tan^{-1} \left(d^{(n)}/d_{\text{max}}^{(n)}\right)" />
+
+where, <img src="https://latex.codecogs.com/gif.latex?d^{(n)}&space;=&space;(P_{U}&space;-&space;P_{L})/2,&space;\quad&space;0&space;\le&space;d^{(n)}&space;\le&space;1" title="d^{(n)} = (P_{U} - P_{L})/2, \quad 0 \le d^{(n)} \le 1" />
 
 
 
