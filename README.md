@@ -59,4 +59,4 @@ Requirements:
   
 2. Full polarimetric SAR data in T3 format
   
-3. Run Eig_bounds_polsar_3D.m to generate images
+3. Run **Eig_bounds_polsar_3D.m** to generate images
