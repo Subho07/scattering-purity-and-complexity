@@ -44,6 +44,6 @@ where, <img src="https://latex.codecogs.com/gif.latex?d^{(n)}&space;=&space;(P_{
 <p align="center">
 <img src="rs2_purity_complexity.PNG" width="1200" height="400" alt = "Images of (a) Pauli RGB, (b) Purity and Complexity for RS-2 FP SAR data over San Francisco. Here, O stands for Ocean, U stands for urban, OU stands for oriented urban, V stands for vegetation and B stands for barren land with sparse vegetation">
 
-Figure: Images of (a) Pauli RGB, (b) Purity and (c) Complexity for RS-2 FP SAR data over San Francisco. Here, O stands for Ocean, U stands for urban, OU stands for oriented urban, V stands for vegetation and B stands for barren land with sparse vegetation
+**Figure**: Images of (a) Pauli RGB, (b) Purity and (c) Complexity for RS-2 FP SAR data over San Francisco. Here, O stands for Ocean, U stands for urban, OU stands for oriented urban, V stands for vegetation and B stands for barren land with sparse vegetation
 
 
