@@ -39,6 +39,8 @@ The polarimetric scattering complexity measure, <img src="https://latex.codecogs
 
 where, <img src="https://latex.codecogs.com/gif.latex?d^{(n)}&space;=&space;(P_{U}&space;-&space;P_{L})/2,&space;\quad&space;0&space;\le&space;d^{(n)}&space;\le&space;1" title="d^{(n)} = (P_{U} - P_{L})/2, \quad 0 \le d^{(n)} \le 1" />
 
+## Results
+
 
 
 
