@@ -1,5 +1,7 @@
 # Scattering purity and complexity
 
+A. Bhattacharya, S. Dey and A. C. Frery, "Scattering Purity and Complexity in Radar Polarimetry," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2022.3141790.
+
 A scattering purity and complexity measure using the mean (<img src="https://latex.codecogs.com/gif.latex?m" title="m" />) and standard deviation (<img src="https://latex.codecogs.com/gif.latex?s" title="s" />) of the real positive eigenvalues of a Hermitian positive semi-definite matrix (T/ C). To obtain these expressions, certain inequalities are used on the bounds of the condition number for Hermitian positive definite matrices (T/ C) defined in terms of <img src="https://latex.codecogs.com/gif.latex?m" title="m" /> and <img src="https://latex.codecogs.com/gif.latex?s" title="s" />. The polarimetric scattering purity parameter characterizes the amount of overall polarization structure in the scattered wave. In contrast, the polarimetric scattering complexity parameter describes the mixture of orthogonal polarized pure components in the scattered wave.
 
 
