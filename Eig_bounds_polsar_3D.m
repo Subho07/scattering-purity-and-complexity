@@ -184,7 +184,7 @@ fileandpath_dopFP=strcat([path f_name_dopFP]);
 fid_011 = fopen(fileandpath_dopFP,'wb');
 fwrite(fid_011,p_av', 'float32');
 
-fName = 'delta';
+fName = 'Complexity';
 f_name_thetaFP = strcat('/', char(fName), '.bin');
 fileandpath_thetaFP=strcat([path f_name_thetaFP]);
 fid_01 = fopen(fileandpath_thetaFP,'wb');
