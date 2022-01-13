@@ -28,7 +28,11 @@
 %  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 %  DEALINGS IN THE SOFTWARE.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+% Citing article
+% A. Bhattacharya, S. Dey and A. C. Frery, "Scattering Purity and Complexity in 
+% Radar Polarimetry," in IEEE Transactions on Geoscience and Remote Sensing, 
+%doi: 10.1109/TGRS.2022.3141790.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
 [filename, path] = uigetfile('*.txt', 'Select Full Pol config file');
