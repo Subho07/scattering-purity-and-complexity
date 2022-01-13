@@ -31,7 +31,7 @@
 % Citing article
 % A. Bhattacharya, S. Dey and A. C. Frery, "Scattering Purity and Complexity in 
 % Radar Polarimetry," in IEEE Transactions on Geoscience and Remote Sensing, 
-%doi: 10.1109/TGRS.2022.3141790.
+% doi: 10.1109/TGRS.2022.3141790.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
